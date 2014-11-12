@@ -1,23 +1,17 @@
 ## GlobaLeaks is a software aiming to became the first flexible whistleblowing framework
 
-ENG/
+logos/
+
+    logos of Hermes, GlobaLeaks, Tor2web
+
+presentations/ENG/
 
     english based presentations, in various format
 
-ITA/
+presentations/ITA/
 
     italian based presentation, in various format
 
-images-used-in-presentations/
+misc/
 
-    collection of picture, reusable during next presentations
-
-logos/
-
-    GlobaLeaks 4 and 3 faces logo, logo pattern usable in chain. 
-    Tor2Web included (LeakDirectory is missing!)
-
-abandoned-graph/
-
-    just for remember
-
+    collection of old materials and pictures reusable during presentations
